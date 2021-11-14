@@ -6,7 +6,7 @@ A bot to send messeges to group using bot telegram bot
 
 ```
 Made with Python3
-(C) @pyrogrammer-s
+(C) @pyrogramers
 Copyright permission under MIT License
 License -> https://github.com/pyrogramers/groupchattingbot//blob/main/LICENSE
 ```
