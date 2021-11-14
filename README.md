@@ -8,7 +8,7 @@ A bot to send messeges to group using bot telegram bot
 Made with Python3
 (C) @pyrogrammer-s
 Copyright permission under MIT License
-License -> https://github.com/pyrogrammer-s/groupchattingbot//blob/main/LICENSE
+License -> https://github.com/pyrogramers/groupchattingbot//blob/main/LICENSE
 ```
 
 ---
@@ -30,7 +30,7 @@ License -> https://github.com/pyrogrammer-s/groupchattingbot//blob/main/LICENSE
   <summary><b>Deploy in your vps</b></summary>
 
 ```sh
-git clone https://github.com/pyrogrammer-s/groupchattingbot//tree/main
+git clone https://github.com/pyrogramers/groupchattingbot//tree/main
 cd groupchattingbot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -52,5 +52,5 @@ python3 main.py
 
 ## Credits
 
-- [pyrogrammers](https://github.com/pyrogrammer-s)
+- [pyrogrammers](https://github.com/pyrogramers)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
