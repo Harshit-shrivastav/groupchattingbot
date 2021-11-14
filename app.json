@@ -1,7 +1,7 @@
 {
-    "name": "Glitch-Art-Bot",
-    "description": "A image to glitch image telegram bot",
-    "repository": "https://github.com/FayasNoushad/Glitch-Art-Bot",
+    "name": "Group-chatting-bot",
+    "description": "A telegram to send messeges to group using bot",
+    "repository": "https://github.com/pyrogrammer-s/groupchattingbot",
     "keywords": [
         "glitch art",
         "telegram bot",
