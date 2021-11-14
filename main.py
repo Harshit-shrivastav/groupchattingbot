@@ -1,4 +1,4 @@
-# Author: pyrogrammers (https://github.com/pyrogrammer-s) (@pyrogrammer-s)
+# Author: pyrogrammers (https://github.com/pyrogrammers) (@pyrogrammers)
 import os
 from pyrogram import Client, filters
 CHAT_ID = int(os.environ.get("CHAT_ID", 0))
