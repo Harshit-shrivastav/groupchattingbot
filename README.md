@@ -1,14 +1,14 @@
-# Glitch-Art-Bot
+# Group-chatting-bot
 
-A image to glitch image telegram bot
+A bot to send messeges to group using bot telegram bot
 
 ---
 
 ```
 Made with Python3
-(C) @FayasNoushad
+(C) @pyrogrammer-s
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Glitch-Art-Bot/blob/main/LICENSE
+License -> https://github.com/pyrogrammer-s/groupchattingbot//blob/main/LICENSE
 ```
 
 ---
@@ -30,8 +30,8 @@ License -> https://github.com/FayasNoushad/Glitch-Art-Bot/blob/main/LICENSE
   <summary><b>Deploy in your vps</b></summary>
 
 ```sh
-git clone https://github.com/FayasNoushad/Glitch-Art-Bot/tree/main
-cd Glitch-Art-Bot
+git clone https://github.com/pyrogrammer-s/groupchattingbot//tree/main
+cd groupchattingbot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
@@ -46,10 +46,11 @@ python3 main.py
 - `API_HASH` Your API Hash from my.telegram.org
 - `API_ID` Your API ID from my.telegram.org
 - `BOT_TOKEN` Your bot token from @BotFather
-
+- `USER_ID` Your userID from @missrose_bot
+- `CHAT_ID` Your group id from by adding missrose_bot to your group and sending /id cmd
 ---
 
 ## Credits
 
-- [Fayas Noushad](https://github.com/FayasNoushad)
+- [pyrogrammers](https://github.com/pyrogrammer-s)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
