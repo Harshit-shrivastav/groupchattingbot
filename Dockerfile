@@ -9,3 +9,4 @@ RUN cd groupchattingbot
 WORKDIR /groupchattingbot
 RUN pip3 install -U -r requirements.txt
 CMD python3 main.py
+Expose 3306
