@@ -4,7 +4,7 @@ A bot to send messeges to group using bot telegram bot
 
 ```
 Made with Python3
-(C) @pyrogramers
+(C) Harshit-shrivastav
 Copyright permission under MIT License
 License -> https://github.com/Harshit-shrivastav/groupchattingbot//blob/main/LICENSE
 ```
