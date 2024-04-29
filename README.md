@@ -2,16 +2,11 @@
 
 A bot to send messeges to group using bot telegram bot
 
----
-# ❤️ Support
-<a href="https://telegram.me/pyrogrammers"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.me/pyrogrammerschat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
 ```
 Made with Python3
 (C) @pyrogramers
 Copyright permission under MIT License
-License -> https://github.com/pyrogramers/groupchattingbot//blob/main/LICENSE
+License -> https://github.com/Harshit-shrivastav/groupchattingbot//blob/main/LICENSE
 ```
 
 ---
@@ -33,7 +28,7 @@ License -> https://github.com/pyrogramers/groupchattingbot//blob/main/LICENSE
   <summary><b>Deploy in your vps</b></summary>
 
 ```sh
-git clone https://github.com/pyrogramers/groupchattingbot//tree/main
+git clone https://github.com/Harshit-shrivastav/groupchattingbot//tree/main
 cd groupchattingbot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -55,5 +50,5 @@ python3 main.py
 
 ## Credits
 
-- [pyrogrammers](https://github.com/pyrogramers)
+- [me](https://github.com/Harshit-shrivastav)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
